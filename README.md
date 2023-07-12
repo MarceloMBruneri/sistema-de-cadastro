@@ -1,3 +1,4 @@
+![imagem do luffy badass de one piece](https://github.com/MarceloMBruneri/sistema-de-cadastro/blob/main/luffy.png)
 <h1>Sistema de cadastro de jogos</h1>
 
 > Status do projeto: Em dev
