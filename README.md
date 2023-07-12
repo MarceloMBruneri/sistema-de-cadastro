@@ -9,6 +9,7 @@ Para rodar esse projeto na sua máquina, execute o comando:
 
 ```
 teste entre 3 crases
+node app.js
 ```
 
 OBS.: Formato md = MarkDown -> aceita html
