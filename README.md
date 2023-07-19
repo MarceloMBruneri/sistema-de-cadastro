@@ -10,6 +10,7 @@ Para rodar esse projeto na sua máquina, execute o comando:
 ```
 teste entre 3 crases
 node app.js
+curso git da alura!!
 ```
 
 OBS.: Formato md = MarkDown -> aceita html
